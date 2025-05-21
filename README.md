@@ -109,7 +109,7 @@ print(f"Predicted House Price: ₹{predicted_price[0]:,.2f}")
 ## 🔗 Live Demo
 
 **🌍 Deployed at:**
-[https://house-price-prediction.onrender.com](https://house-price-prediction.onrender.com)
+[[https://house-price-prediction.onrender.com](https://house-price-prediction-3cwo.onrender.com/)]([https://house-price-prediction.onrender.com](https://house-price-prediction-3cwo.onrender.com/))
 
 ---
 
