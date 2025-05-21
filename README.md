@@ -38,7 +38,7 @@ House-Price-Prediction/
 ### 🔹 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/House-Price-Prediction.git
+git clone https://github.com/SaravanavelE/House-Price-Prediction.git
 cd House-Price-Prediction
 ````
 
