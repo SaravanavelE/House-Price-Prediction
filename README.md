@@ -7,7 +7,7 @@ A simple machine learning-powered web application that predicts house prices bas
 ## 🚀 Features
 
 - 🧠 Predict house prices using a trained ML model.
-- 🔢 Input fields for common house attributes (area, rooms, etc.).
+- 🔢 Input fields for common house attributes (build year).
 - 🌐 Deployed-ready Flask app with a clean HTML + CSS frontend.
 - 📦 Supports `.pkl` (Pickle) model integration.
 
