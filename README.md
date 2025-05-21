@@ -121,7 +121,7 @@ This project is licensed under the **MIT License**. Free to use, customize, and 
 
 ## 🙌 Author
 
-Developed by **\[Your Name]**
+Developed by **\[Saravanavel E]**
 GitHub: [https://github.com/SaravanavelE](https://github.com/SaravanavelE)
 LinkedIn: [https://linkedin.com/in/saravanavel-e](https://linkedin.com/in/saravanavel-e)
 
